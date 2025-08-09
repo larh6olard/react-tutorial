@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-arizonia: 'Arizonia', cursive;
+  --font-inter: 'Inter', sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #1475cf;
+  height: 250px;
+  width: 500px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.uploaded-row {
+  margin: 10px 0;
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  border-radius: 5px;
+  background-color: #e9f0ff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.upload-content {
+  display: flex;
+  align-items: center;
+}
+
