@@ -55,6 +55,7 @@ const Explore = () => {
         </div>
         <div className='clear-both'></div>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro iure blanditiis laborum libero facilis, veritatis quaerat maiores, id enim est ab, nihil tempore reiciendis. Veritatis, voluptates laudantium. Dicta, officia ut.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo voluptatibus quae molestiae mollitia? Inventore dolores, iste necessitatibus rerum architecto, voluptatibus veritatis beatae eaque omnis qui, sint velit deleniti vitae saepe.</p>
       </div>
     </div>
   )
